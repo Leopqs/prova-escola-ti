@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Leopqs
+Nome: Leonardo Enz Pazin
 
-RA: >>> PREENCHER <<<
+RA: 230117262
 
 Conta GitHub: @Leopqs
 
