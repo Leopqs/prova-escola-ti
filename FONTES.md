@@ -16,7 +16,8 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | | | |
+| 1 | https://github.com/endersonmenezes/talks/blob/main/courses/escola-de-ti/evaluation/practical_exam/examples/track-01-sdd/example-response/constitution.md| base de regras | constitution.md |
+| 2 | https://github.com/endersonmenezes/talks/blob/main/courses/escola-de-ti/evaluation/practical_exam/examples/track-01-sdd/example-response/plan.md | base de especificações | spec.md |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -38,7 +39,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
+| 1 | https://chatgpt.com/share/6ac6d970-6284-83e8-b547-5aa64c49f0d5 | tasks.md, testes.md |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
